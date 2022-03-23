@@ -10,7 +10,7 @@
   });
 </script>
 
-<div class="card bg-base-100 shadow-md">
+<div class="card bg-base-100 shadow-md pt-4">
   <figure>
     <Link to={`/product/${product.slug}`}>
       <img

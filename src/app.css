@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .visible-dropdown {
+    visibility: visible !important;
+    opacity: 1 !important;
+    pointer-events: auto;
+  }
+}

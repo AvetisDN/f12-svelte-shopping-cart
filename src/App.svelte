@@ -8,7 +8,7 @@
 </script>
 
 <Router>
-  <div class="p-4 bg-gray-200 w-full min-h-screen">
+  <div class="p-4 bg-base-300 w-full min-h-screen">
     <main class="max-w-5xl mx-auto">
       <Navbar />
       <div class="max-w-5xl rounded-box shadow-xl bg-base-200 p-6">
